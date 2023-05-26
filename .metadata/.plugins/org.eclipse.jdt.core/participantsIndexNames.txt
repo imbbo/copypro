@@ -1,0 +1,9 @@
+INDEX VERSION 1.131
+C:\work\spring_project\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\575444558.index
+\WeGoCamping\src\main\java
+C:\work\spring_project\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1295820054.index
+\WeGoCamping\src\main\java
+C:\work\spring_project\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2475587806.index
+\WeGoCamping\src\main\java
+C:\work\spring_project\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1351348735.index
+\WeGoCamping\src\main\java
